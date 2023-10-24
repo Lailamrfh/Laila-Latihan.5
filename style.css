@@ -1,0 +1,50 @@
+body { 
+    background: url(https://cdn.antaranews.com/cache/1200x800/2023/08/04/Nadin-Amizah-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    width: 900px;
+    margin: 20px auto;
+    background-color: blanchedalmond;
+    border: 5px (255, 255, 255);
+}
+
+h1 {
+    background-color: rosybrown(37,20,12);
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    background-color: rosybrown(63, 37, 26)  ;
+    color: brown;
+    text-align: center;
+}
+
+p {
+    padding: 20px;
+    text-align: justify;
+}
+
+#pengantar {
+    background-color: beige;
+    padding: 50px;
+    
+}
+
+.content1 {
+   background-color: blanchedalmond; rgb(182, 142, 95)
+   border: 5px  (255, 255, 255);
+}
+.content4 {
+    background-color: blanchedalmond; rgb(182, 142, 95)
+    border: 5px (255, 255, 255);
+}
+
+/* tulisan bold untuk Nadin Amizah*/
+.tulisanbold {
+    font-weight: bold;
+}
